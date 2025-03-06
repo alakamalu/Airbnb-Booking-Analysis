@@ -34,7 +34,7 @@ This project analyzes Airbnb booking data to uncover insights about pricing tren
   - Impact of customer reviews on booking rates
   - Most popular Airbnb locations
 
-## 🚀 Installation & Usage
+## Installation & Usage
 ### Prerequisites
 Ensure you have Python and the required libraries installed:
 
@@ -56,5 +56,5 @@ jupyter notebook Airbnb_Booking_Analysis_Capstone_Project.ipynb
 - Recommendations for hosts to improve their listing performance
 
 
-## 🤝 Contributing
+## Contributing
 Feel free to fork the repo, create a new branch, and submit a pull request.
